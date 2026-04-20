@@ -159,6 +159,8 @@ nav {
 
 .exp-card:hover {
     border-right: 4px solid var(--accent-red);
+    box-shadow: -5px 0px 15px rgba(211, 47, 47, 0.2); 
+    transform: scale(1.02);
 }
 
 .exp-card span {
